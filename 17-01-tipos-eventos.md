@@ -48,5 +48,4 @@ onCopy onCut onPaste
 
 onScroll onWheel
 
-Podemos encontrar más eventos disponibles en https://es.reactjs.org/docs/events.html#supported-
-events.
+Podemos encontrar más eventos disponibles en https://es.reactjs.org/docs/events.html#supported-events.
